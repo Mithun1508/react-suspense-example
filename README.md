@@ -21,13 +21,13 @@ Ensure you have Node.js and npm installed on your machine.
 1. Clone the repository:
    git clone https://github.com/your-username/react-suspense-example.git
 
-  1 Navigate to the project directory:
+  2 Navigate to the project directory:
   cd react-suspense-example
    
-  2 Install dependencies:
+  3 Install dependencies:
      npm install
    
-  3 Run the development server:
+  4 Run the development server:
       npm start Visit http://localhost:3000 in your browser to see the React Suspense example in action.
 
 ## Contributing
